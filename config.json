@@ -1,0 +1,8 @@
+{
+  "brokexRepetitions": 2,
+  "supplyRepetitions": 2,
+  "borrowRepetitions": 2,
+  "swapRepetitions": 2,
+  "stakingRepetitions": 2,
+  "createDomainRepetitions": 2
+}
